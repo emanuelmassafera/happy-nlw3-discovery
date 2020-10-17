@@ -38,7 +38,9 @@ A aplicação web Happy é uma plataforma online que permite buscar orfanatos em
 
 ## Layout <a name="-layout" style="text-decoration:none"></a>
 
-<img alt="" src="./public/images/happy.gif" width="800px"/>
+<h1 align="center">
+  <img alt="" src="./public/images/happy.gif" width="800px"/>
+</h1>
 
 ---
 
